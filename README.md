@@ -1,3 +1,2 @@
-- Hi, I’m Nikita Okunev
 - Currently work as an Android developer
 - Actively learning iOS Development
