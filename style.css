@@ -1,0 +1,95 @@
+html {
+  font-size: 13px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+@media (min-width: 468px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+main {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+h1,
+h2 {
+  font-weight: 500;
+  margin-top: 0.2em;
+}
+
+h1 {
+  margin-bottom: 0.25em;
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.3rem;
+  margin-bottom: 1em;
+}
+
+h5 {
+  font-size: 1em;
+  margin-bottom: 0.5em;
+}
+
+article h3 {
+  border-bottom: 1px solid black;
+}
+
+.separated {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.skills {
+  justify-content: initial;
+}
+
+.skills div:not(:first-child) {
+  margin-left: 20px;
+}
+
+.item h4 {
+  margin: 0;
+}
+
+.item p {
+  margin: 0.5em 0;
+}
+
+.item {
+  margin: 2em 0;
+}
+
+.item .time {
+  font-size: 0.85em;
+}
+
+.item header {
+  display: flex;
+  align-items: center;
+}
+
+.item header > h4 {
+  flex: 1;
+  text-align: end;
+}
+
+.item-logo {
+  margin-right: 10px;
+  height: 3em;
+  width: 3em;
+  object-fit: cover;
+}
+
+.mb-5 {
+  margin-bottom: 15px;
+}
+
+.mt-5 {
+  margin-top: 15px;
+}

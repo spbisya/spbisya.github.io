@@ -1,2 +1,0 @@
-- Currently working as an Android developer
-- Actively learning iOS Development
