@@ -1,0 +1,360 @@
+{
+  "components": [
+    {
+      "name": "chips",
+      "display_name": null,
+      "created_at": "2022-10-07T20:10:36.325Z",
+      "updated_at": "2022-10-07T20:27:02.587Z",
+      "id": 2987719,
+      "schema": {
+        "list": {
+          "type": "textarea",
+          "key": "chips_list",
+          "pos": 0
+        }
+      },
+      "image": null,
+      "preview_field": null,
+      "is_root": false,
+      "preview_tmpl": null,
+      "is_nestable": true,
+      "all_presets": [],
+      "preset_id": null,
+      "real_name": "chips",
+      "component_group_uuid": "db3432e1-b8d9-4b90-bad1-67d34b16973b",
+      "color": null,
+      "icon": null,
+      "component_group_name": "Data Display"
+    },
+    {
+      "name": "grid",
+      "display_name": null,
+      "created_at": "2022-10-07T15:38:01.717Z",
+      "updated_at": "2022-10-07T15:38:01.717Z",
+      "id": 2987309,
+      "schema": {
+        "columns": {
+          "type": "bloks"
+        }
+      },
+      "image": null,
+      "preview_field": null,
+      "is_root": false,
+      "preview_tmpl": null,
+      "is_nestable": true,
+      "all_presets": [],
+      "preset_id": null,
+      "real_name": "grid",
+      "component_group_uuid": null,
+      "color": null,
+      "icon": null
+    },
+    {
+      "name": "hero",
+      "display_name": "Hero",
+      "created_at": "2022-10-07T19:34:55.487Z",
+      "updated_at": "2022-11-11T07:56:52.786Z",
+      "id": 2987707,
+      "schema": {
+        "title": {
+          "type": "text"
+        },
+        "subtitle": {
+          "type": "text"
+        },
+        "body": {
+          "type": "textarea"
+        },
+        "avatar": {
+          "type": "asset",
+          "filetypes": [
+            "images"
+          ]
+        }
+      },
+      "image": null,
+      "preview_field": null,
+      "is_root": false,
+      "preview_tmpl": null,
+      "is_nestable": true,
+      "all_presets": [],
+      "preset_id": null,
+      "real_name": "Hero",
+      "component_group_uuid": "db3432e1-b8d9-4b90-bad1-67d34b16973b",
+      "color": null,
+      "icon": null,
+      "component_group_name": "Data Display"
+    },
+    {
+      "name": "page",
+      "display_name": null,
+      "created_at": "2022-10-07T15:38:01.685Z",
+      "updated_at": "2022-10-07T15:38:01.685Z",
+      "id": 2987307,
+      "schema": {
+        "body": {
+          "type": "bloks"
+        }
+      },
+      "image": null,
+      "preview_field": null,
+      "is_root": true,
+      "preview_tmpl": null,
+      "is_nestable": false,
+      "all_presets": [],
+      "preset_id": null,
+      "real_name": "page",
+      "component_group_uuid": null,
+      "color": null,
+      "icon": null
+    },
+    {
+      "name": "page_section",
+      "display_name": null,
+      "created_at": "2022-10-07T20:08:38.324Z",
+      "updated_at": "2022-10-07T20:45:14.032Z",
+      "id": 2987716,
+      "schema": {
+        "title": {
+          "type": "text"
+        },
+        "icon": {
+          "type": "asset",
+          "filetypes": [
+            "images"
+          ],
+          "allow_external_url": true
+        },
+        "content": {
+          "type": "bloks"
+        }
+      },
+      "image": null,
+      "preview_field": null,
+      "is_root": false,
+      "preview_tmpl": null,
+      "is_nestable": true,
+      "all_presets": [
+        {
+          "id": 1668302,
+          "name": "www",
+          "component_id": 2987716,
+          "image": "",
+          "color": "",
+          "icon": "",
+          "description": ""
+        }
+      ],
+      "preset_id": null,
+      "real_name": "page_section",
+      "component_group_uuid": null,
+      "color": null,
+      "icon": null
+    },
+    {
+      "name": "project_entry",
+      "display_name": "Project",
+      "created_at": "2022-10-21T10:42:11.391Z",
+      "updated_at": "2022-10-21T10:43:47.125Z",
+      "id": 3026718,
+      "schema": {
+        "product_title": {
+          "type": "text",
+          "pos": 5,
+          "key": "product_title"
+        },
+        "product_url": {
+          "type": "text",
+          "key": "product_url",
+          "pos": 6
+        },
+        "description": {
+          "type": "richtext",
+          "key": "description",
+          "pos": 7
+        },
+        "tags": {
+          "type": "textarea",
+          "key": "tags",
+          "pos": 8
+        },
+        "assets": {
+          "type": "multiasset",
+          "filetypes": [
+            "images"
+          ],
+          "allow_external_url": true
+        }
+      },
+      "image": null,
+      "preview_field": null,
+      "is_root": false,
+      "preview_tmpl": null,
+      "is_nestable": true,
+      "all_presets": [],
+      "preset_id": null,
+      "real_name": "Project",
+      "component_group_uuid": "db3432e1-b8d9-4b90-bad1-67d34b16973b",
+      "color": null,
+      "icon": null,
+      "component_group_name": "Data Display"
+    },
+    {
+      "name": "subheader",
+      "display_name": null,
+      "created_at": "2022-10-08T12:11:44.935Z",
+      "updated_at": "2022-10-08T12:11:59.475Z",
+      "id": 2988167,
+      "schema": {
+        "text": {
+          "type": "text"
+        }
+      },
+      "image": null,
+      "preview_field": null,
+      "is_root": false,
+      "preview_tmpl": null,
+      "is_nestable": true,
+      "all_presets": [],
+      "preset_id": null,
+      "real_name": "subheader",
+      "component_group_uuid": null,
+      "color": null,
+      "icon": null
+    },
+    {
+      "name": "table_list",
+      "display_name": null,
+      "created_at": "2022-10-07T20:09:52.030Z",
+      "updated_at": "2022-10-07T20:55:51.408Z",
+      "id": 2987718,
+      "schema": {
+        "list": {
+          "type": "textarea",
+          "key": "rows",
+          "pos": 0
+        }
+      },
+      "image": null,
+      "preview_field": null,
+      "is_root": false,
+      "preview_tmpl": null,
+      "is_nestable": true,
+      "all_presets": [],
+      "preset_id": null,
+      "real_name": "table_list",
+      "component_group_uuid": "db3432e1-b8d9-4b90-bad1-67d34b16973b",
+      "color": null,
+      "icon": null,
+      "component_group_name": "Data Display"
+    },
+    {
+      "name": "text_block",
+      "display_name": null,
+      "created_at": "2022-10-08T09:33:29.505Z",
+      "updated_at": "2022-10-08T09:33:50.470Z",
+      "id": 2988075,
+      "schema": {
+        "top_text": {
+          "type": "text"
+        },
+        "title": {
+          "type": "text"
+        },
+        "subtitle": {
+          "type": "text"
+        }
+      },
+      "image": null,
+      "preview_field": null,
+      "is_root": false,
+      "preview_tmpl": null,
+      "is_nestable": true,
+      "all_presets": [],
+      "preset_id": null,
+      "real_name": "text_block",
+      "component_group_uuid": "db3432e1-b8d9-4b90-bad1-67d34b16973b",
+      "color": null,
+      "icon": null,
+      "component_group_name": "Data Display"
+    },
+    {
+      "name": "work_entry",
+      "display_name": null,
+      "created_at": "2022-10-07T20:13:35.434Z",
+      "updated_at": "2022-11-11T08:13:41.371Z",
+      "id": 2987720,
+      "schema": {
+        "empty": {
+          "type": "text",
+          "pos": 0,
+          "display_name": "     "
+        },
+        "job_title": {
+          "type": "text",
+          "pos": 1,
+          "key": "job_title"
+        },
+        "company": {
+          "type": "text",
+          "pos": 2,
+          "key": "company"
+        },
+        "product_url": {
+          "type": "text",
+          "pos": 3,
+          "display_name": "product_url_2"
+        },
+        "subtitle": {
+          "type": "text",
+          "pos": 4,
+          "key": "subtitle"
+        },
+        "date_start": {
+          "type": "datetime",
+          "pos": 5,
+          "disable_time": true,
+          "key": "dates"
+        },
+        "date_end": {
+          "type": "datetime",
+          "pos": 6,
+          "disable_time": true
+        },
+        "projects": {
+          "type": "bloks",
+          "options": [
+            {
+              "_uid": "7ac3adce-2e18-4cca-9e7b-9ba236104f9a",
+              "value": "",
+              "name": "name"
+            }
+          ],
+          "pos": 7
+        }
+      },
+      "image": null,
+      "preview_field": null,
+      "is_root": false,
+      "preview_tmpl": null,
+      "is_nestable": true,
+      "all_presets": [
+        {
+          "id": 1668298,
+          "name": "var",
+          "component_id": 2987720,
+          "image": "",
+          "color": "",
+          "icon": "",
+          "description": ""
+        }
+      ],
+      "preset_id": null,
+      "real_name": "work_entry",
+      "component_group_uuid": "db3432e1-b8d9-4b90-bad1-67d34b16973b",
+      "color": null,
+      "icon": null,
+      "component_group_name": "Data Display"
+    }
+  ]
+}

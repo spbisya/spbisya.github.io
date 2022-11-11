@@ -1,0 +1,232 @@
+{
+  "presets": [
+    {
+      "id": 1668298,
+      "name": "var",
+      "preset": {
+        "_uid": "e271b486-ed41-4a5b-8c6c-3fff2f650890",
+        "tags": "MVVM\nAndroid\nKotlin\nCommunication\nAPI Integrations\nArtificial Intelligence\nAndroid/Kotlin",
+        "dates": "2022-10-05 23:56",
+        "company": "Atlas Biomed",
+        "date_end": "2022-09-01 23:59",
+        "subtitle": "Android app development and support",
+        "component": "work_entry",
+        "job_title": "Android Developer",
+        "date_start": "2019-07-01 00:00",
+        "description": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "text": "• Created and maintained an Android app using Kotlin that allows users to order DNA and Microbiome tests, track shipping status, and see their genetic data presented as articles with complex layouts.",
+                  "type": "text"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "text": "• Developed a new feature for food tracking in which users can snap their meals and our Artificial Intelligence network will detect ingredients and show how healthy this meal is.",
+                  "type": "text"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "text": "• CLEAN + MVVM as the architecture, Retrofit for the network layer, Hilt for DI, Room as the database for ingredients, Navigation component for navigation and Flows for different app states.",
+                  "type": "text"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "text": "• Worked with async loading large images and displaying them to users without delays.",
+                  "type": "text"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "text": "• Added image selection and cropping for users' avatars in their profile.",
+                  "type": "text"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "text": "• Mastered my CameraX API usage when working with image capturing.",
+                  "type": "text"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "text": "• Worked with both Google and Yandex Map kits.",
+                  "type": "text"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "text": "• Migrated the app to Jetpack Compose.",
+                  "type": "text"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "text": "• Team lead of a team of several Android developers.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "text": "Atlas",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "text": "https://play.google.com/store/apps/details?id=ru.atlas.health_android",
+                  "type": "text",
+                  "marks": [
+                    {
+                      "type": "link",
+                      "attrs": {
+                        "href": "https://play.google.com/store/apps/details?id=ru.atlas.health_android",
+                        "uuid": null,
+                        "anchor": null,
+                        "target": null,
+                        "linktype": "url"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "text": "• Created and maintained an Android app using Kotlin that allows users to order DNA and Microbiome tests, track shipping status, and see their genetic data presented as articles with complex layouts.",
+                  "type": "text"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "text": "• Developed a new feature for food tracking in which users can snap their meals and our Artificial Intelligence network will detect ingredients and show how healthy this meal is.",
+                  "type": "text"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "text": "• CLEAN + MVVM as the architecture, Retrofit for the network layer, Hilt for DI, Room as the database for ingredients, Navigation component for navigation and Flows for different app states.",
+                  "type": "text"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "text": "• Worked with async loading large images and displaying them to users without delays.",
+                  "type": "text"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "text": "• Added image selection and cropping for users' avatars in their profile.",
+                  "type": "text"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "text": "• Mastered my CameraX API usage when working with image capturing.",
+                  "type": "text"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "text": "• Worked with both Google and Yandex Map kits.",
+                  "type": "text"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "text": "• Migrated the app to Jetpack Compose.",
+                  "type": "text"
+                },
+                {
+                  "type": "hard_break"
+                },
+                {
+                  "text": "• Team lead of a team of several Android developers.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "text": "Built a full app with DNA, Microbiome, and full Genome test results, nutrition tracking powered with our neural network to detect ingredients, personalized recommendations, charts, relatives search, and other features. About 30% of the app was rewritten and working successfully.",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        "product_url": " https://play.google.com/store/apps/details?id=ru.atlas.health_android",
+        "product_title": "Atlas"
+      },
+      "component_id": 2987720,
+      "space_id": 178053,
+      "created_at": "2022-10-07T21:32:39.286Z",
+      "updated_at": "2022-10-07T21:32:39.286Z",
+      "image": "",
+      "color": "",
+      "icon": "",
+      "description": ""
+    },
+    {
+      "id": 1668302,
+      "name": "www",
+      "preset": {
+        "_uid": "d256b382-1a82-4116-84d4-5bdd250c0644",
+        "icon": {
+          "id": null,
+          "alt": null,
+          "name": "",
+          "focus": "",
+          "title": null,
+          "filename": "https://matching.turing.com/static/media/work_outline-24px.edda54af.svg",
+          "copyright": null,
+          "fieldtype": "asset",
+          "is_external_url": true
+        },
+        "title": "Work History",
+        "content": [],
+        "component": "page_section"
+      },
+      "component_id": 2987716,
+      "space_id": 178053,
+      "created_at": "2022-10-07T23:04:52.672Z",
+      "updated_at": "2022-10-07T23:04:52.672Z",
+      "image": "",
+      "color": "",
+      "icon": "",
+      "description": ""
+    }
+  ]
+}
